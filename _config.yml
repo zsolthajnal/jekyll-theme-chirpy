@@ -24,13 +24,17 @@ description: >-                        # used by seo meta and the atom feed
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
 
-author: your_full_name                  # change to your full name
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+
+# Replace with the website url, e.g. 'https://username.github.io'
+url: 'https://zsolthajnal.github.io'
+
+
+author: Zsolt Hajnal                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: zsolthajnal             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
